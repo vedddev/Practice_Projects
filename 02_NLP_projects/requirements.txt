@@ -1,0 +1,47 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# NLP
+nltk
+spacy
+gensim
+textblob
+beautifulsoup4
+regex
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Hugging Face / Transformers
+transformers
+datasets
+tokenizers
+sentence-transformers
+accelerate
+
+# Evaluation
+evaluate
+rouge-score
+sacrebleu
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Useful utilities
+tqdm
+requests
+python-dotenv
+
+
+pypdf
+streamlit
+groq
+##& "C:\Users\DELL\anaconda3\shell\condabin\conda-hook.ps1"
