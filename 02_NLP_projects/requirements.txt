@@ -44,4 +44,5 @@ python-dotenv
 pypdf
 streamlit
 groq
+contractions
 ##& "C:\Users\DELL\anaconda3\shell\condabin\conda-hook.ps1"
